@@ -6,9 +6,13 @@ In this project, I developed an interactive Coffee Sales Dashboard in Excel, des
 
 # Key Features & Skills Used:
 ✅ Pivot Tables & Charts – Visualizing sales patterns, top-selling products, and customer insights.
+
 ✅ Power Query – Cleaning, and transforming data for accuracy.
+
 ✅ KPI Tracking – Monitoring Total Sales, and Total Orders at a glance.
+
 ✅ Slicers & Timelines – Allowing users to filter data dynamically by coffee type, size, roast, and loyalty program.
+
 ✅ Sales Domain Metrics – Identifying peak sales periods, high-value customers, and market opportunities.
 
 This project enhances business strategy, inventory planning, and targeted marketing efforts, helping businesses boost revenue and optimize operations.
